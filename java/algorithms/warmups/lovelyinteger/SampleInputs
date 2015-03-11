@@ -1,0 +1,36 @@
+10
+
+INPUTS:
+vdtzjgsmitfnnrypmfkarhbmgwsghypfdkeoqyaashohyownv
+nm
+qywo
+ey
+vdyfhmvgpvawlhxzfkuozggpgcgb
+evdhtiqgfyvcytohqppcmdbultbnzevdbakvkcdpbatbtjlmzaolfqfqjifkoanqcznmbqbeswglgrzfroswgxoritbw
+qoxpbjstmxlidzowavnqnlwnbpvustpiimzlxsfjrstwtksufhm
+ujgvabptwgbesdqrvxc
+rvilfchnjtgfeoahrrcnxdspgkidjkrahbnpdwcosktyytfpkhch
+wyvigbrssucuhrxetoydhwdbcsnlwxavvwdexxyrralarlgmzergbujfoxslu
+
+OUTPUTS:
+201
+1
+4
+20
+153
+453
+192
+108
+216
+313
+
+0
+1   // good
+4   // good
+20  // good
+153 // good
+70
+192 // good
+108 // good
+82
+313 // good
