@@ -1,2 +1,4 @@
 # hackerrank
-Repo to hold all my solutions for HackerRank problems
+Repository to hold problem solutions for practice and in the future competition coding problems from:
+- HackerRank
+- CodeChef
